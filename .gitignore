@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+inspection-log.json
+*.log
+
+# Editor
+.vscode/
+.idea/
+
+# Backups (don't ship workbench backups)
+*.backup
